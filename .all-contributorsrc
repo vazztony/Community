@@ -17,6 +17,18 @@
         "doc",
         "infra"
       ]
+    },
+    {
+      "login": "PaulineBernat",
+      "name": "PaulineBernat",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/28021380?v=4",
+      "profile": "https://github.com/PaulineBernat",
+      "contributions": [
+        "design",
+        "doc",
+        "eventOrganizing"
+      ]
     }
-  ]
+  ],
+  "repoType": "github"
 }
