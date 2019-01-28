@@ -101,8 +101,6 @@ If you're interested in Atlas City projects, here are the main software reposito
 ## Tutorials
 Our code repositories should all have example code contained in them, but for more in-depth tutorials you can view our engineering blog or follow our youtube channel
 
-[Atlas Journal](https://medium.com/atlas-journal)!
-
 [Engineering Blog](https://SOME.LINK/EGR-BLOG)!
 
 [Youtube Channel](https://SOME.LINK/EGR-BLOG)!
@@ -117,7 +115,7 @@ Interested in showing your support for Atlas City?  Tweet us @atlascity_io
 
 -  [Live chat on Slack](http://chat.atlascity.org/)
 
--  [Blockstack Blog](https://medium.com/atlas-journal)
+-  [Atlas Journal](https://medium.com/atlas-journal)!
 
 -  [YouTube Videos](https://www.youtube.com/channel/)
 
