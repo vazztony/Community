@@ -1,29 +1,32 @@
-<!--
-Example bug report:
+Issue tracker is **ONLY** used for reporting bugs. NO NEW FEATURE ACCEPTED! Use [stackoverflow](https://stackoverflow.com) for supporting issues.
 
-Short and descriptive example bug report title
+<!--- Provide a general summary of the issue in the Title above -->
 
-A summary of the issue and the browser/OS environment in which it occurs.
-If suitable, include the steps required to reproduce the bug. (99.9% this will be incredibly helpful)
+## Expected Behavior
+<!--- Tell us what should happen -->
 
-1. This is the first step
-2. This is the second step
-3. Further steps, etc.
+## Current Behavior
+<!--- Tell us what happens instead of the expected behavior -->
 
-`<url>` - a link to the reduced test case if applicable
+## Possible Solution
+<!--- Not obligatory, but suggest a fix/reason for the bug, -->
 
-Any other information you want to share that is relevant to the issue being
-reported. This might include the lines of code that you have identified as
-causing the bug, and potential solutions (and your opinions on their
-merits).
+## Steps to Reproduce
+<!--- Provide a link to a live example, or an unambiguous set of steps to -->
+<!--- reproduce this bug. Include code to reproduce, if relevant -->
+1.
+2.
+3.
+4.
 
-FILL OUT THE FORM BELOW OR THE ISSUE WILL BE CLOSED
+## Context (Environment)
+<!--- How has this issue affected you? What are you trying to accomplish? -->
+<!--- Providing context helps us come up with a solution that is most useful in the real world -->
 
---->
+<!--- Provide a general summary of the issue in the Title above -->
 
-**Issue Type (check one)**
+## Detailed Description
+<!--- Provide a detailed description of the change or addition you are proposing -->
 
-- [ ] Bug Report
-- [ ] Feature Idea
-- [ ] Technical Discussion
-- [ ] Question / Other
+## Possible Implementation
+<!--- Not obligatory, but suggest an idea for implementing addition or change -->
