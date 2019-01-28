@@ -1,10 +1,6 @@
 # Community
 
-  
-
 ## Table of Contents
-
-  
 
 -  [About](#about)
 
@@ -24,12 +20,8 @@
 
 -  [Stay Informed and Engaged!](#stay-informed-and-engaged)
 
-  
-  
-
+ 
 ## About
-
-  
 
 Welcome to Atlas City's global community! 
 
@@ -39,8 +31,6 @@ We welcome builders, creators, hackers, writers and contributors of all kinds.
  
 
 ## People
-
-  
 
 Atlas City is made up of experts in engineering, software and business, from some of the most progressive companies in the world.
 
@@ -53,31 +43,27 @@ Here are some of the great people participating in our project:
 
 ## Events
 
-  
-
 ### Calendar
 
-  
-
 We maintain a calendar for community events hosted and organised by Atlas City and supporters. Any community member is welcome to attend or submit an event.
-
-  
 
 *  [Atlas City Events Calendar](https://www.eventbrite.com/o/atlas-city-17605869395)
 
   
 ## Swag
 
-  
-
 Interested in showing your support for Atlas City?  Tweet us @atlascity_io
   
 
 ## Contributing Guidelines
 
-  
+You should reffer to the specific project repositories contributing guide this can be found in the CONTRIBUTING.md file in the root of the repository. This may have more specific guidence on code styles and the bylaws of that perticular project.
 
-*  [Contributing Guidelines](https://github.com/atlascity/community/blob/master/CONTRIBUTING.md)
+For a generic overview of contributing to Atlas City's projects you can view our;
+
+*  [General Contributing Guidelines](https://github.com/atlascity/community/blob/master/CONTRIBUTING.md)
+
+* Engineering Handbook //@TODO link to engineering handbook
 
 * Code of Conduct //@TODO link to code of conduct
 
@@ -86,9 +72,9 @@ Interested in showing your support for Atlas City?  Tweet us @atlascity_io
 
 If you're interested in Atlas City projects, here are the main software repositories you should checkout:
 
-  
 -  [PROJECT_NAME](https://github.com/ORG/PROJECT) - Some project description.
-  
+
+
 ## Tutorials
 Our code repositories should all have example code contained in them, but for more in-depth tutorials you can view our engineering blog or follow our youtube channel
 
