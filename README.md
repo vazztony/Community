@@ -49,7 +49,7 @@ We maintain a calendar for community events hosted and organised by Atlas City a
 
 *  [Atlas City Events Calendar](https://www.eventbrite.com/o/atlas-city-17605869395)
 
-  
+
 ## Swag
 
 Interested in showing your support for Atlas City?  Tweet us @atlascity_io
@@ -58,7 +58,7 @@ Interested in showing your support for Atlas City?  Tweet us @atlascity_io
 
 -  **Contribute code** - all Atlas City software is open source, so send us pull requests if you have any suggestions for ways the software can be improved
 
--  **Help with software testing** - we really appreciate and value our testers, and encourage people who want to support Atlas City to run the software and file issues in the appropriate repository for any bugs that are found
+-  **Help with software testing** - we really appreciate and value our testers, and encourage people who want to support Atlas City to run the software and file issues in the appropriate repository for any bugs that are found. Read how to submit good bug reports
 
 -  **Improve the documentation** - we can never have enough documentation so if there's anything you'd like to clarify or add, just fork any of the Atlas City repos, start writing and expanding on the docs, and submit a pull request
 
