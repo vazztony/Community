@@ -1,6 +1,6 @@
 ### New Pull Request Submissions:
 
-1. [ ] Have you followed the guidelines in our Contributing document?
+1. [ ] Have you followed the guidelines in our [Contributing document](https://github.com/atlascity/Community/tree/master/CONTRIBUTING.md)?
 2. [ ] Have you checked to ensure there aren't other open [Pull Requests](../../pulls) for the same update/change?
 3. [ ] I have added tests to cover my changes.
 4. [ ] All new and existing tests passed.
