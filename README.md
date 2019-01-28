@@ -61,12 +61,13 @@ You should reffer to the specific project repositories contributing guide this c
 
 For a generic overview of contributing to Atlas City's projects you can view our;
 
-*  [General Contributing Guidelines](https://github.com/atlascity/community/blob/master/CONTRIBUTING.md)
+* [General Contributing Guidelines](https://github.com/atlascity/community/blob/master/CONTRIBUTING.md)
+
+* [Contributor Code of Conduct] (https://github.com/atlascity/Community/blob/master/contributor-code-of-conduct.md)
 
 * Engineering Handbook //@TODO link to engineering handbook
 
-* Code of Conduct //@TODO link to code of conduct
-
+You must also agree to our [Contributor License Agreement] (https://github.com/atlascity/Community/blob/master/contributor-license-agreement.md)
 
 ## Code
 
@@ -84,7 +85,7 @@ Our code repositories should all have example code contained in them, but for mo
 
 [Youtube Channel](https://SOME.LINK/EGR-BLOG)!
 
-## How to Help
+## How to Contribute
 
 -  **Contribute code** - all Atlas City software is open source, so send us pull requests if you have any suggestions for ways the software can be improved
 
