@@ -40,8 +40,8 @@ Together, we’re deliver a range of products and services solving blockchain’
 Here are some of the great people participating in our project:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-|
-|
+<!-- prettier-ignore -->
+| [<img src="https://avatars3.githubusercontent.com/u/21375475?s=96&v=4" width="100px;"/><br /><sub><b>James Kirkby</b></sub>](https://github.com/nshCore)<br />[💻](https://github.com/nshCore/Atlas City Community/commits?author=nshCore "Code") [📖](https://github.com/nshCore/Atlas City Community/commits?author=nshCore "Documentation") [🚇](#infra-nshCore "Infrastructure (Hosting, Build-Tools, etc)") |
 | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
