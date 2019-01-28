@@ -1,6 +1,27 @@
-Issue tracker is **ONLY** used for reporting bugs. NO NEW FEATURE ACCEPTED! Use [stackoverflow](https://stackoverflow.com) for supporting issues.
+Issue tracker is **ONLY** used for reporting bugs.
+
+Use [stackoverflow](https://stackoverflow.com) for supporting issues.
+
+### Prerequisites
+
+* [ ] Can you reproduce the problem in safe mode?
+* [ ] Are you running the latest version?
+* [ ] Did you check the debugging guide?
+* [ ] Did you check the FAQs on Discuss?
+* [ ] Are you reporting to the correct repository?
+* [ ] Did you perform a cursory search?
+
+For more information, see the `CONTRIBUTING` guide.
+
+### Features:
+
+**Please note by far the quickest way to get a new feature is to file a Pull Request.**
+
+We will consider your request but it may be closed if it's something we're not actively planning to work on.
 
 <!--- Provide a general summary of the issue in the Title above -->
+
+### Bug reports:
 
 ## Expected Behavior
 <!--- Tell us what should happen -->
