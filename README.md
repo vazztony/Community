@@ -1,3 +1,4 @@
+
 # Community
 
 ## Table of Contents
@@ -70,10 +71,11 @@ Interested in showing your support for Atlas City?  Tweet us @atlascity_io
 
 -  **Attend open meetings**:
   
-- Engineering: [every Wednesday, 2-3 pm UTC](http://LINK-TO-ENGR-MEETING-SPECS)
-   - [Past Engineering Meeting Minutes](http://LINK-TO-PAST-MEETING-MINUTS)
-- Community Update: [every other Thursday, 1:30-2:30 pm UTC](http://LINK-TO-COMMUNITY-MEETING-SPECS)
-  - [Past Community Meeting Minutes](http://LINK-TO-PAST-MEETING-MINUTS)
+   - Engineering: [every Wednesday, 2-3 pm UTC](http://LINK-TO-ENGR-MEETING-SPECS)
+     - [Past Engineering Meeting Minutes](http://LINK-TO-PAST-MEETING-MINUTS)
+   
+   - Community Update: [every other Thursday, 1:30-2:30 pm UTC](http://LINK-TO-COMMUNITY-MEETING-SPECS)
+     - [Past Community Meeting Minutes](http://LINK-TO-PAST-MEETING-MINUTS)
   
 
 ## Contributing Guidelines
