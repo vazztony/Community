@@ -1,0 +1,22 @@
+{
+  "projectName": "Atlas City Community",
+  "projectOwner": "nshCore",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "nshCore",
+      "name": "James Kirkby",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/21375475?s=96&v=4",
+      "profile": "https://github.com/nshCore",
+      "contributions": [
+        "code",
+        "doc",
+        "infra"
+      ]
+    }
+  ]
+}
