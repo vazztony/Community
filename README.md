@@ -1,5 +1,5 @@
 
-# Community
+# Atlas City Github Community
 
 ## Table of Contents
 
