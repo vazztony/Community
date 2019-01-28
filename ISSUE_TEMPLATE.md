@@ -1,8 +1,6 @@
-Issue tracker is **ONLY** used for reporting bugs.
+Issue tracker is **ONLY** used for reporting bugs. Use [stackoverflow](https://stackoverflow.com) for supporting issues.
 
-Use [stackoverflow](https://stackoverflow.com) for supporting issues.
-
-### Prerequisites
+## Prerequisites
 
 * [ ] Can you reproduce the problem in safe mode?
 * [ ] Are you running the latest version?
@@ -13,7 +11,7 @@ Use [stackoverflow](https://stackoverflow.com) for supporting issues.
 
 For more information, see the `CONTRIBUTING` guide.
 
-### Features:
+## Features:
 
 **Please note by far the quickest way to get a new feature is to file a Pull Request.**
 
@@ -21,18 +19,18 @@ We will consider your request but it may be closed if it's something we're not a
 
 <!--- Provide a general summary of the issue in the Title above -->
 
-### Bug reports:
+## Bug reports:
 
-## Expected Behavior
+### Expected Behavior
 <!--- Tell us what should happen -->
 
-## Current Behavior
+### Current Behavior
 <!--- Tell us what happens instead of the expected behavior -->
 
-## Possible Solution
+### Possible Solution
 <!--- Not obligatory, but suggest a fix/reason for the bug, -->
 
-## Steps to Reproduce
+### Steps to Reproduce
 <!--- Provide a link to a live example, or an unambiguous set of steps to -->
 <!--- reproduce this bug. Include code to reproduce, if relevant -->
 1.
@@ -40,14 +38,14 @@ We will consider your request but it may be closed if it's something we're not a
 3.
 4.
 
-## Context (Environment)
+### Context (Environment)
 <!--- How has this issue affected you? What are you trying to accomplish? -->
 <!--- Providing context helps us come up with a solution that is most useful in the real world -->
 
 <!--- Provide a general summary of the issue in the Title above -->
 
-## Detailed Description
+### Detailed Description
 <!--- Provide a detailed description of the change or addition you are proposing -->
 
-## Possible Implementation
+### Possible Implementation
 <!--- Not obligatory, but suggest an idea for implementing addition or change -->
