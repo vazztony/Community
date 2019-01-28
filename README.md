@@ -53,7 +53,6 @@ We maintain a calendar for community events hosted and organised by Atlas City a
 
 *  [Atlas City Events Calendar](https://www.eventbrite.com/o/atlas-city-17605869395)
 
-
 ## Swag
 
 Interested in showing your support for Atlas City?  Tweet us @atlascity_io
@@ -79,7 +78,6 @@ Interested in showing your support for Atlas City?  Tweet us @atlascity_io
    
    - Community Update: [every other Thursday, 1:30-2:30 pm UTC](http://LINK-TO-COMMUNITY-MEETING-SPECS)
      - [Past Community Meeting Minutes](http://LINK-TO-PAST-MEETING-MINUTS)
-  
 
 ## Contributing Guidelines
 
@@ -94,7 +92,7 @@ For a generic overview of contributing to Atlas City's projects you can view our
 * Engineering Handbook //@TODO link to engineering handbook
 
 ## Contributor License Agreement
-You must sign a Contribution License Agreement (CLA) before your pull request will be merged. This a one-time requirement for contributing to Atlas City projects. You can read more about Contributor License Agreements (CLA) on Wikipedia.
+You must sign a Contribution License Agreement (CLA) before your pull request will be merged. This a one-time requirement for contributing to Atlas City projects. You can read more about [Contributor License Agreements](https://en.wikipedia.org/wiki/Contributor_License_Agreement) (CLA) on Wikipedia.
 
 Signing the CLA doesn't have to be done up-front, it is only required for your pull request to be merged. You can clone, fork, and submit your pull request as usual.
 
@@ -104,7 +102,6 @@ If you're interested in Atlas City projects, here are the main software reposito
 
 -  [PROJECT_NAME](https://github.com/ORG/PROJECT) - Some project description.
 
-
 ## Tutorials
 Our code repositories should all have example code contained in them, but for more in-depth tutorials you can view our engineering blog or follow our youtube channel
 
@@ -113,7 +110,6 @@ Our code repositories should all have example code contained in them, but for mo
 [Engineering Blog](https://SOME.LINK/EGR-BLOG)!
 
 [Youtube Channel](https://SOME.LINK/EGR-BLOG)!
-
 
 ## Stay informed and engaged!
 
