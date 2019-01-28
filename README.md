@@ -54,6 +54,27 @@ We maintain a calendar for community events hosted and organised by Atlas City a
 
 Interested in showing your support for Atlas City?  Tweet us @atlascity_io
   
+## How to Contribute
+
+-  **Contribute code** - all Atlas City software is open source, so send us pull requests if you have any suggestions for ways the software can be improved
+
+-  **Help with software testing** - we really appreciate and value our testers, and encourage people who want to support Atlas City to run the software and file issues in the appropriate repository for any bugs that are found
+
+-  **Improve the documentation** - we can never have enough documentation so if there's anything you'd like to clarify or add, just fork any of the Atlas City repos, start writing and expanding on the docs, and submit a pull request
+
+-  **Organize community events** - we welcome anyone interested in putting together anything as simple as a meetup at a local library or community center to discuss the latest Atlas City developments and applications with like-minded people from your area
+
+-  **Produce and share content** - if you have ideas or insights about Atlas City or decentralised applications in general, write a post and share it on Medium.
+
+-  **[Become a local Atlas City Community Evangelist](https://community.atlas.org/evangelists)** - join other passionate community leaders around the world supporting and spreading Atlas City's mission
+
+-  **Attend open meetings**:
+  
+- Engineering: [every Wednesday, 2-3 pm UTC](http://LINK-TO-ENGR-MEETING-SPECS)
+   - [Past Engineering Meeting Minutes](http://LINK-TO-PAST-MEETING-MINUTS)
+- Community Update: [every other Thursday, 1:30-2:30 pm UTC](http://LINK-TO-COMMUNITY-MEETING-SPECS)
+  - [Past Community Meeting Minutes](http://LINK-TO-PAST-MEETING-MINUTS)
+  
 
 ## Contributing Guidelines
 
@@ -85,26 +106,6 @@ Our code repositories should all have example code contained in them, but for mo
 
 [Youtube Channel](https://SOME.LINK/EGR-BLOG)!
 
-## How to Contribute
-
--  **Contribute code** - all Atlas City software is open source, so send us pull requests if you have any suggestions for ways the software can be improved
-
--  **Help with software testing** - we really appreciate and value our testers, and encourage people who want to support Atlas City to run the software and file issues in the appropriate repository for any bugs that are found
-
--  **Improve the documentation** - we can never have enough documentation so if there's anything you'd like to clarify or add, just fork any of the Atlas City repos, start writing and expanding on the docs, and submit a pull request
-
--  **Organize community events** - we welcome anyone interested in putting together anything as simple as a meetup at a local library or community center to discuss the latest Atlas City developments and applications with like-minded people from your area
-
--  **Produce and share content** - if you have ideas or insights about Atlas City or decentralised applications in general, write a post and share it on Medium.
-
--  **[Become a local Atlas City Community Evangelist](https://community.atlas.org/evangelists)** - join other passionate community leaders around the world supporting and spreading Atlas City's mission
-
--  **Attend open meetings**:
-  
-- Engineering: [every Wednesday, 2-3 pm UTC](http://LINK-TO-ENGR-MEETING-SPECS)
-   - [Past Engineering Meeting Minutes](http://LINK-TO-PAST-MEETING-MINUTS)
-- Community Update: [every other Thursday, 1:30-2:30 pm UTC](http://LINK-TO-COMMUNITY-MEETING-SPECS)
-  - [Past Community Meeting Minutes](http://LINK-TO-PAST-MEETING-MINUTS)
 
 ## Stay informed and engaged!
 
