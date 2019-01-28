@@ -13,7 +13,15 @@
       "avatar_url": "https://avatars3.githubusercontent.com/u/21375475?s=96&v=4",
       "profile": "https://github.com/nshCore",
       "contributions": [
+	"design",
+	"eventOrganizing"
+	"test",
+	"tool",
+	"ideas",
         "code",
+	"bug",
+	"plugin",
+	"review",
         "doc",
         "infra"
       ]
