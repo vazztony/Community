@@ -1,6 +1,6 @@
-Issue tracker is **ONLY** used for reporting bugs. Use [stackoverflow](https://stackoverflow.com) for supporting issues.
-
 ## Prerequisites
+
+Issue tracker is **ONLY** used for reporting bugs. Use [stackoverflow](https://stackoverflow.com) for supporting issues.
 
 * [ ] Can you reproduce the problem in safe mode?
 * [ ] Are you running the latest version?
@@ -9,7 +9,7 @@ Issue tracker is **ONLY** used for reporting bugs. Use [stackoverflow](https://s
 * [ ] Are you reporting to the correct repository?
 * [ ] Did you perform a cursory search?
 
-For more information, see the `CONTRIBUTING` guide.
+For more information, see the [CONTRIBUTING](https://github.com/atlascity/Community/CONTRIBUTING.md/) guide.
 
 ## Features:
 
