@@ -29,4 +29,4 @@ Please remember to do the following:
 
 ## [](https://github.com/atlascity/community/submitting-bugs-and-suggestions.md#Submitting-Bugs-and-Suggestions#contributing-fixes)Contributing Fixes
 
-If you are interested in fixing issues and contributing directly to the code base, please see the section [How to Contribute](https://github.com/atlascity/Community#how-to-help).
+If you are interested in fixing issues and contributing directly to the code base, please see the section [How to Contribute](https://github.com/atlascity/Community#how-to-contribute).
