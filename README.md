@@ -63,11 +63,11 @@ For a generic overview of contributing to Atlas City's projects you can view our
 
 * [General Contributing Guidelines](https://github.com/atlascity/community/blob/master/CONTRIBUTING.md)
 
-* [Contributor Code of Conduct] (https://github.com/atlascity/Community/blob/master/contributor-code-of-conduct.md)
+* [Contributor Code of Conduct](https://github.com/atlascity/Community/blob/master/contributor-code-of-conduct.md)
 
 * Engineering Handbook //@TODO link to engineering handbook
 
-You must also agree to our [Contributor License Agreement] (https://github.com/atlascity/Community/blob/master/contributor-license-agreement.md)
+You must also agree to our [Contributor License Agreement](https://github.com/atlascity/Community/blob/master/contributor-license-agreement.md)
 
 ## Code
 
