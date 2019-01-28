@@ -65,6 +65,27 @@
         "plugin",
         "test"
       ]
+    },
+    {
+      "login": "Switch1983",
+      "name": "Darren Oliveiro-Priestnall",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/38245509?v=4",
+      "profile": "https://www.atlascityfinance.com",
+      "contributions": [
+        "bug",
+        "code",
+        "design",
+        "doc",
+        "eventOrganizing",
+        "financial",
+        "fundingFinding",
+        "ideas",
+        "review",
+        "talk",
+        "test",
+        "tutorial",
+        "video"
+      ]
     }
   ],
   "repoType": "github"
