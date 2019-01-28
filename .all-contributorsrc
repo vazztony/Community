@@ -13,15 +13,15 @@
       "avatar_url": "https://avatars3.githubusercontent.com/u/21375475?s=96&v=4",
       "profile": "https://github.com/nshCore",
       "contributions": [
-	"design",
-	"eventOrganizing",
-	"test",
-	"tool",
-	"ideas",
+        "design",
+        "eventOrganizing",
+        "test",
+        "tool",
+        "ideas",
         "code",
-	"bug",
-	"plugin",
-	"review",
+        "bug",
+        "plugin",
+        "review",
         "doc",
         "infra"
       ]
@@ -93,6 +93,20 @@
         "test",
         "tutorial",
         "video"
+      ]
+    },
+    {
+      "login": "dufia",
+      "name": "Konrad Moskal",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/5569649?v=4",
+      "profile": "https://github.com/dufia",
+      "contributions": [
+        "bug",
+        "code",
+        "doc",
+        "plugin",
+        "test",
+        "tool"
       ]
     }
   ],
