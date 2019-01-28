@@ -78,6 +78,8 @@ If you're interested in Atlas City projects, here are the main software reposito
 ## Tutorials
 Our code repositories should all have example code contained in them, but for more in-depth tutorials you can view our engineering blog or follow our youtube channel
 
+[Atlas Journal](https://medium.com/atlas-journal)!
+
 [Engineering Blog](https://SOME.LINK/EGR-BLOG)!
 
 [Youtube Channel](https://SOME.LINK/EGR-BLOG)!
