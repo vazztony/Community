@@ -1,0 +1,26 @@
+
+{
+  "name": "Community",
+  "version": "0.0.1",
+  "description": "Atlas City Github Community Page",
+  "scripts": {
+    "contributor": "all-contributors add",
+    "contributor:gen": "all-contributors generate"
+  },
+  "keywords": [
+    "blockchain"
+  ],
+  "author": "James Kirby <james.kirby@atlascity.io> (@nshCore)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atlascity/Community.git"
+  },
+  "bugs": {
+    "url": "https://github.com/atlascity/Community//issues"
+  },
+  "homepage": "https://github.com/atlascity/Community#readme",
+  "dependencies": {
+    "all-contributors-cli": "^4.5.0"
+  }
+}
