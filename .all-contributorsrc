@@ -28,6 +28,16 @@
         "doc",
         "eventOrganizing"
       ]
+    },
+    {
+      "login": "stxphxn",
+      "name": "Stephen",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/991266?v=4",
+      "profile": "https://github.com/stxphxn",
+      "contributions": [
+        "code",
+        "test"
+      ]
     }
   ],
   "repoType": "github"
