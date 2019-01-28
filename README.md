@@ -52,10 +52,6 @@ Here are some of the great people participating in our project:
 We maintain a calendar for community events hosted and organised by Atlas City and supporters. Any community member is welcome to attend or submit an event.
 
 *  [Atlas City Events Calendar](https://www.eventbrite.com/o/atlas-city-17605869395)
-
-## Swag
-
-Interested in showing your support for Atlas City?  Tweet us @atlascity_io
   
 ## How to Contribute
 
@@ -110,6 +106,10 @@ Our code repositories should all have example code contained in them, but for mo
 [Engineering Blog](https://SOME.LINK/EGR-BLOG)!
 
 [Youtube Channel](https://SOME.LINK/EGR-BLOG)!
+
+## Swag
+
+Interested in showing your support for Atlas City?  Tweet us @atlascity_io
 
 ## Stay informed and engaged!
 
