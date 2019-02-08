@@ -142,6 +142,21 @@
         "fundingFinding",
         "ideas"
       ]
+    },
+    {
+      "login": "vazztony",
+      "name": "Tony Vazz",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/47425696?v=4",
+      "profile": "https://about.me/tonyvazz",
+      "contributions": [
+        "blog",
+        "code",
+        "design",
+        "eventOrganizing",
+        "ideas",
+        "talk",
+        "video"
+      ]
     }
   ],
   "repoType": "github"
