@@ -108,6 +108,21 @@
         "test",
         "tool"
       ]
+    },
+    {
+      "login": "monsieurleberre",
+      "name": "monsieurleberre",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/4638821?v=4",
+      "profile": "https://github.com/monsieurleberre",
+      "contributions": [
+        "code",
+        "infra",
+        "platform",
+        "plugin",
+        "review",
+        "test",
+        "tool"
+      ]
     }
   ],
   "repoType": "github"
