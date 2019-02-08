@@ -157,6 +157,18 @@
         "talk",
         "video"
       ]
+    },
+    {
+      "login": "UziQidwai",
+      "name": "UziQidwai",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/47419405?v=4",
+      "profile": "https://github.com/UziQidwai",
+      "contributions": [
+        "blog",
+        "eventOrganizing",
+        "fundingFinding",
+        "ideas"
+      ]
     }
   ],
   "repoType": "github"
