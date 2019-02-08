@@ -132,6 +132,16 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "TheRadsey",
+      "name": "TheRadsey",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/47418884?v=4",
+      "profile": "https://github.com/TheRadsey",
+      "contributions": [
+        "fundingFinding",
+        "ideas"
+      ]
     }
   ],
   "repoType": "github"
